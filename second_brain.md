@@ -8,3 +8,4 @@
 ## People
 - Andy Matuschak https://notes.andymatuschak.org/
     - https://numinous.productions/ttft/
+    - http://www.marknagelberg.com/notes-on-developing-transformative-tools-for-thought/
